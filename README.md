@@ -45,5 +45,5 @@ refund.php 退款
 
 <p align="center">
     <img src="" width="500px">
-    <p align="center">联系邮箱：884358@qq.com</p>
+    <p align="center">联系邮箱：75670321@qq.com</p>
 </p>
